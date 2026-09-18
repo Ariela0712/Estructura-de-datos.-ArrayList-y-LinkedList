@@ -98,6 +98,7 @@ por `List` y guarda objetos `Paciente`.
 
 ## Estructura del proyecto
 
+```text
 consultorio-arrylist/
 |   |-- ArrayList.java
 |   |-- Gestor.java
@@ -105,6 +106,7 @@ consultorio-arrylist/
 |   |-- Main.java
 |   `-- Paciente.java
 `-- README.md
+```
 
 ## Como ejecutar
 
