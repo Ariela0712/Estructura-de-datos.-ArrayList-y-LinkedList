@@ -14,7 +14,7 @@ Este ejercicio consiste en la implementación propia de `ArrayList<E>`, mediante
 
 El propósito específico de este ejercicio es practicar el manejo de arreglos dinámicos: el crecimiento del arreglo sin pérdida de los datos existentes, el desplazamiento de elementos al insertar o eliminar en una posición intermedia, y la validación segura de los límites de la estructura.
 
-[`consultorio-arraylist/`](./consultorio-arraylist)
+[`consultorio-arraylist/`](./consultorio-arraylist
 
 ## Aplicación de música "Sonora" — LinkedList
 
@@ -22,7 +22,7 @@ Este ejercicio consiste en la implementación propia de `LinkedList<E>`, basada 
 
 El propósito específico de este ejercicio es practicar el manejo de referencias entre nodos: el recorrido, la inserción y la eliminación de elementos mediante el desplazamiento de punteros, en lugar de índices de arreglo, y particularmente la inversión de una lista enlazada mediante la modificación de sus enlaces existentes, sin necesidad de crear una segunda lista.
 
-[`listaMusical-linkedlist/`](./sonora-linkedlist)
+[`listaMusical-linkedlist/`](./listaMusical-linkedlist)
 
 ## Estructura común de ambos ejercicios
 
