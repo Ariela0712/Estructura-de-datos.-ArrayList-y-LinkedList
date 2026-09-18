@@ -98,15 +98,12 @@ por `List` y guarda objetos `Paciente`.
 
 ## Estructura del proyecto
 
-Consultorio/
-|-- src/
+consultorio-arrylist/
 |   |-- ArrayList.java
 |   |-- Gestor.java
 |   |-- List.java
 |   |-- Main.java
 |   `-- Paciente.java
-|-- bin/       (archivos .class generados al compilar)
-|-- lib/       (dependencias, actualmente sin uso)
 `-- README.md
 
 ## Como ejecutar
