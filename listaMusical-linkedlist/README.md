@@ -102,16 +102,13 @@ Contiene el metodo `main` y funciona como programa de prueba. Ejecuta casos posi
 ## Estructura del proyecto
 
 ```text
-ListaReproduccion/
-├── src/
+listaMusical/
 │   ├── Cancion.java
 │   ├── Gestor.java
 │   ├── LinkedList.java
 │   ├── List.java
 │   ├── Main.java
 │   └── Nodo.java
-├── bin/
-├── lib/
 └── README.md
 ```
 
