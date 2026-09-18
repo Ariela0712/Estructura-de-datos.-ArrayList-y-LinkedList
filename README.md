@@ -22,7 +22,7 @@ Este ejercicio consiste en la implementación propia de `LinkedList<E>`, basada 
 
 El propósito específico de este ejercicio es practicar el manejo de referencias entre nodos: el recorrido, la inserción y la eliminación de elementos mediante el desplazamiento de punteros, en lugar de índices de arreglo, y particularmente la inversión de una lista enlazada mediante la modificación de sus enlaces existentes, sin necesidad de crear una segunda lista.
 
-[`sonora-linkedlist/`](./sonora-linkedlist)
+[`listaMusical-linkedlist/`](./sonora-linkedlist)
 
 ## Estructura común de ambos ejercicios
 
