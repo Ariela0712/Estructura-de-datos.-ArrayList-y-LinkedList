@@ -1,4 +1,4 @@
-# Ejercicios de Estructuras de Datos
+# Ejercicios de Estructuras de Datos -ArrayList y LinkedList- en Java
 
 Este repositorio reúne dos ejercicios de implementación de estructuras de datos desarrolladas desde cero en Java, sin utilizar las clases del paquete `java.util`. El objetivo general es comprender el funcionamiento interno de las estructuras lineales más utilizadas —una lista basada en arreglo dinámico y una lista enlazada— mediante su construcción manual, en lugar de emplear las implementaciones ya disponibles en el lenguaje. Cada ejercicio se desarrolla sobre un caso de dominio realista, con el fin de que la práctica no se limite a lo teórico, sino que demuestre la aplicación de estas estructuras en la resolución de un problema concreto.
 
